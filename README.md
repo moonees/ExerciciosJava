@@ -22,7 +22,4 @@
  <br />
  <sub><b>Ramon Fernandes</b></sub></a> <a href="https://www.linkedin.com/in/ramon-fernandes-19244a1ab/"</a>
 
- Entre em contato!
- 
- <br />
-[![Linkedin Badge](https://img.shields.io/badge/-Ramon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramon-fernandes-19244a1ab/)]
+ Entre em contato![![Linkedin Badge](https://img.shields.io/badge/-Ramon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramon-fernandes-19244a1ab/)]
