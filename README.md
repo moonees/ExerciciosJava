@@ -18,6 +18,7 @@
 
 ### Autor
 ---
- <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C5603AQH3yT2WyYhfTw/profile-displayphoto-shrink_200_200/0/1621870382930?e=1628726400&v=beta&t=2uG3fVPv5ZsZIRL3o6z0o1QoQq9BayN5EK_EtrGRgfk" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C5603AQH3yT2WyYhfTw/profile-displayphoto-shrink_200_200/0/1621870382930?e=1628726400&v=beta&t=2uG3fVPv5ZsZIRL3o6z0o1QoQq9BayN5EK_EtrGRgfk" width="100px;" alt="" <a href="https://www.linkedin.com/in/ramon-fernandes-19244a1ab/"</a>
+/>
  <br />
- <sub><b>Ramon Fernandes</b></sub></a> <a href="https://www.linkedin.com/in/ramon-fernandes-19244a1ab/"</a>
+ <sub><b>Ramon Fernandes</b></sub></a> 
